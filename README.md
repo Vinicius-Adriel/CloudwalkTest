@@ -8,7 +8,7 @@ Files
 - `mock_sourcing_dataset.xlsx` → Original dataset used
 - `Cloudwalk Presentation` → Simplified presentation with essential data
 
-Alloted time: 5 hours
+Alotted time: 5 hours
 
 AI Usage: The data set was analysed through Claude by brainstorming and providing insights from myself. Organization/formatting were done through a simple notetaker, and ChatGPT.
 Presentation was done with Gamma and edited by myself.
